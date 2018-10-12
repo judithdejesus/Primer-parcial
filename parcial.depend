@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1539301461 source:c:\users\hp\documents\parcial\propietarios.c
+	<stdio.h>
+	<stdlib.h>
+	"Propietarios.h"
+	<string.h>
+	<ctype.h>
+
+1539300350 c:\users\hp\documents\parcial\propietarios.h
+
+1539300566 source:c:\users\hp\documents\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Propietarios.h"
+	<string.h>
+	<ctype.h>
+
